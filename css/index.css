@@ -1,3 +1,7 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+
+}
 /* start uthein */
 /* end uthein */
 
@@ -47,6 +51,19 @@ margin-bottom: 25px;
 /* end htain */
 
 /* start ohmar  */
+.ohnmar img{
+    width: 50%;
+    height: 80%;
+}
+.carousel-control-next-icon, .ohnmaricon{
+    background-color:#7e7a7a;
+}
+.carousel-control-prev-icon{
+    background-color:#7e7a7a;
+}
+.ohnmardiv{
+    background-color: #e8e8e8;
+}
 /* end ohmar */
 /* start nyi */
 /* end nyi */
