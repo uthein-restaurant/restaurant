@@ -1,4 +1,21 @@
 /* start uthein */
+
+.th-container{
+
+    width: 70%;
+    padding-right: var(--bs-gutter-x,.75rem);
+    padding-left: var(--bs-gutter-x,.75rem);
+    margin-right: auto;
+    margin-left: auto;
+   
+
+}
+
+.th-bg{
+    background-color: #e8e8e8;
+
+    height: 80%;
+}
 /* end uthein */
 
 
